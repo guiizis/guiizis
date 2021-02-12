@@ -46,7 +46,7 @@ Here are some ideas to get you started:
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a> 
             <a href="https://angular.io/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/util/preview.html?image=/logos/angular/angular-icon.svg"
+                src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
                 alt="angular" width="40" height="40" /> </a> </p>
 
 
